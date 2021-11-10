@@ -1,7 +1,9 @@
 # X-DOS 2.0 and MS-DOS v1.25 and v2.0 Source Code
 
-MS-DOS is Copyright of Microsoft Corporation.
+MS-DOS is Copyright of Microsoft Corporation. 
 All rights reserved.
+
+X-DOS and it's source code is Copyright of Microsoft Corporation, myself, and all contributors.
 
 ## MIT License.
 
